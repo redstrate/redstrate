@@ -7,7 +7,4 @@
 - [chip8](https://github.com/redstrate/chip8), another chip-8 emulator but with some debugging and a custom language interpreter.
 - [procreate viewer](https://github.com/redstrate/procreate-viewer), a Mac app that provides a viewer, thumbnail and Quick Look generator for Procreate documents.
 
-### Other Sites
-
-- [Twitter](https://www.twitter.com/redstrate)
-- [Website](https://redstrate.com)
+Please visit my [website](https://redstrate.com) for more information and my blog!
