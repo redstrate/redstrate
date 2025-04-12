@@ -2,5 +2,4 @@ Hello! My username is **redstrate** and I make (and break) things. You may be vi
 
 * [GitHub](https://github.com/redstrate)
 * [KDE Invent](https://invent.kde.org/redstrate/)
-* [Codeberg](https://codeberg.org/redstrate/)
 * [Personal Git](https://code.ryne.moe/redstrate)
